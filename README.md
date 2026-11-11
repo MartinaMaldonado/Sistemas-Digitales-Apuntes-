@@ -1,6 +1,6 @@
 # Sistemas Digitales - UNL (Quinto Ciclo)
 
-Repositorio oficial con los apuntes, resúmenes y material de estudio de la materia de **Sistemas Digitales**, impartida en la Carrera de Computación de la Universidad Nacional de Loja (UNL).
+Repositorio con los apuntes, resúmenes y material de estudio de la materia de **Sistemas Digitales**, impartida en la Carrera de Computación de la Universidad Nacional de Loja (UNL).
 
 ---
 
