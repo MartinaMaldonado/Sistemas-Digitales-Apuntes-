@@ -38,4 +38,4 @@ Repositorio con los apuntes, resúmenes y material de estudio de la materia de *
 * **3.5.** Caso de estudio de comunicaciones M2M
 
 ---
-*Estudiante: Martina Alejandra Maldonado Machuca*[cite: 195]
+*Estudiante: Martina Alejandra Maldonado Machuca*
